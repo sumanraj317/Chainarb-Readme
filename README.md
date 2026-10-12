@@ -1,3 +1,11 @@
+
+<p align="center">
+   <img width="704" height="367" alt="image" src="https://github.com/user-attachments/assets/8291009e-175c-45a0-9c50-5ea09082d78c" />
+</p>
+
+
+
+
 CHAINARB
 Smart contract engineering and security auditing for teams building the next generation of on-chain infrastructure.
 
