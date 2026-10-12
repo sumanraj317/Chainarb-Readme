@@ -19,14 +19,22 @@ No single points of failure in review. Internal audits are peer-reviewed by a se
 **Engagement Types
 Service	Typical Scope**
 
-**Protocol Development**	- Full-cycle smart contract build, from spec to mainnet deployment & monitoring
-**Security Audit**- Manual review + automated analysis + PoC exploits for Critical/High findings, delivered as a formal report
-**Gas Optimization**	- Bytecode-level refactor of existing deployed or pre-launch contracts, benchmarked before/after
-**Retainer / Fractional CTO**	- Ongoing architecture review, code review, and security oversight for funded teams
+**Protocol Development**
+Full-cycle smart contract build, from spec to mainnet deployment & monitoring
+**Security Audit**
+Manual review + automated analysis + PoC exploits for Critical/High findings, delivered as a formal report
+**Gas Optimization**
+Bytecode-level refactor of existing deployed or pre-launch contracts, benchmarked before/after
+**Retainer / Fractional CTO**
+Ongoing architecture review, code review, and security oversight for funded teams
 Audit & Contract Inquiry Protocol
-**Scoping call** — share your repo, docs, and target deployment timeline.
-**Fixed-fee proposal** — scoped by LOC, complexity, and attack surface (oracles, external calls, upgradeability), not an hourly guess.
-**Engagement — for audits:** findings delivered incrementally as Critical/High issues are found, not withheld until a final report; for development: milestone-based delivery with test coverage as an acceptance criterion.
-**Final deliverable** — audit report (Trail-of-Bits-style severity classification) or deployed, documented, tested codebase with a handoff call.
+**Scoping call**
+share your repo, docs, and target deployment timeline.
+**Fixed-fee proposal**
+scoped by LOC, complexity, and attack surface (oracles, external calls, upgradeability), not an hourly guess.
+**Engagement — for audits:**
+findings delivered incrementally as Critical/High issues are found, not withheld until a final report; for development: milestone-based delivery with test coverage as an acceptance criterion.
+**Final deliverable**
+audit report (Trail-of-Bits-style severity classification) or deployed, documented, tested codebase with a handoff call.
 
 📬 **Start an engagement**: sumanraj@chainarb.co — include your repo link, target chain(s), and whether you need development, audit, or both.
